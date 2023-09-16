@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R-A-M-A-N-P-A-N-D-E-Y
 - 👀 I’m interested in ... Coding Languages
-- 🌱 I’m currently learning ... C language
-- 💞️ I’m looking to collaborate on ... Programes Of C Languages
+- 🌱 I’m currently learning ... ML and Computer Vision
+- 💞️ I’m looking to collaborate on ... programs Of Python Languages
 - 📫 How to reach me ... email: Ramanandey@gmail.com
 
 <!---
