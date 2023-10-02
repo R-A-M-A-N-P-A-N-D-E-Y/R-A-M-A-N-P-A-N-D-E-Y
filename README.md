@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding Languages
 - 🌱 I’m currently learning ... ML and Computer Vision
 - 💞️ I’m looking to collaborate on ... programs Of Python Languages
-- 📫 How to reach me ... email: Ramanandey@gmail.com
+- 📫 How to reach me ... email: Ramanpandey.2512@gmail.com
 - LinkedIn: https://www.linkedin.com/in/raman-p-268094119/
 
 <!---
